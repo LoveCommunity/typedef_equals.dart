@@ -1,0 +1,10 @@
+name: typedef_equals
+description: typedef for equals `typedef Equals<T>  = bool Function(T it1, T it2);`
+version: 0.0.1
+homepage: https://github.com/LoveCommunity/typedef_equals.dart
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dev_dependencies: 
+  test: ^1.17.12
